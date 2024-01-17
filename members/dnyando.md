@@ -1,10 +1,7 @@
 # About me
 
-Hi… I’m **DNYANDEO WAGHUNDE** from
-India. Currently, living in
-Belgium.
-`Journalist` by profession.
-`Technology` lover by passion.
+Hi… I’m **DNYANDEO WAGHUNDE** from India. Currently, living in Belgium.
+`Journalist` by profession. `Technology` lover by passion.
 
     Always had curiosity about creative websites and apps.
 
@@ -24,8 +21,8 @@ Belgium.
 
 `Dnyandeo means “God of Knowledge”.`
 
-Till now as a journalist, I had knowledge of things going around me but now
-I want to seek knowledge about technology used in day-to-day life.
+Till now as a journalist, I had knowledge of things going around me but now I
+want to seek knowledge about technology used in day-to-day life.
 
 ## Programming languages
 
