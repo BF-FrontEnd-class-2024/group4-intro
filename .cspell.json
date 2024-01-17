@@ -1,6 +1,13 @@
 {
   "language": "en",
   "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Rodica",
+    "Ilciuc",
+    "Horeca",
+    "hyfcourse",
     "Dnyandeo",
     "HackYourFuture",
     "HackYourFutureBelgium",
@@ -13,7 +20,7 @@
     "Rodica",
     "Sowmya"
   ],
-  "ignorePaths": [
+    "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
