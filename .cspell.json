@@ -9,7 +9,9 @@
     "Coursera",
     "Udemy",
     "expressjs",
-    "Strapi"
+    "Strapi",
+    "Rodica",
+    "Sowmya"
   ],
   "ignorePaths": [
     "node_modules/**",
