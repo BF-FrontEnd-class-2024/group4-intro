@@ -1,12 +1,10 @@
-🎇 **Welcome to my Wiki** 🎇
+# 🎇 **_Welcome to my Wiki_** 🎇
 
-# _Rodica Ilciuc_
+**_Rodica Ilciuc_**
 
 ![hyfcourse](../img/rodicailciuc.png)
 
-1. 🎶 **Biography**
-
----
+🎶 **_Biography_**
 
 - Hello, I'm _Rodica Ilciuc_ a ♉ 👩 . A mother of a little 👸.
 - And i have also a 🐶, I had 🦜 to in the past.
@@ -16,9 +14,7 @@
 - I decide to change my career-path , so I'am currently studying to be a
   front-end web developer.
 
-2. 🌄 **Personality**
-
----
+🌄 **_Personality_**
 
 - I am a person of integrity.
 - Adaptable
@@ -26,25 +22,19 @@
 - Spontaneous
 - Responsible
 
-3. 🔆 **About me hobbies**
-
----
+🔆 **_About me hobbies_**
 
 - DIY
 - Nail technician 💅
 - ⛰️Mountain Hiking
 - Gardening 🌱 💐
 
-4. 💡 **Quote**
+💡 **_Quote_**
 
----
+- The only think **STANDING** between YOU & your Goal is the bullshit \*\*STORY
+  YOU KEEP TELLING YOURSELF.
 
-- _\*The only think **STANDING** between YOU & your Goal is the bullshit **STORY
-  YOU KEEP TELLING YOURSELF\***_.
-
-5. 📓 **Where you can find me**
-
----
+📓 **_Where you can find me_**
 
 - 📧 <rodicailciuc@yahoo.com>
 - My github [link text](https://github.com/rodicailciuc)
