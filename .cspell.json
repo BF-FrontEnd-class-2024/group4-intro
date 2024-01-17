@@ -8,6 +8,15 @@
     "Ilciuc",
     "Horeca",
     "hyfcourse"
+    "Dnyandeo",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Nepo",
+    "WAGHUNDE",
+    "Coursera",
+    "Udemy",
+    "expressjs",
+    "Strapi"
   ],
   "ignorePaths": [
     "node_modules/**",
