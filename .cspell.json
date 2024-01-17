@@ -1,6 +1,16 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo"],
+  "words": [
+    "Dnyandeo",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Nepo",
+    "WAGHUNDE",
+    "Coursera",
+    "Udemy",
+    "expressjs",
+    "Strapi"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
