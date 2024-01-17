@@ -12,7 +12,7 @@ MY Self Sowmya ,i am from India.
 
 Currently i am living in Belgium and learning Front end developer course.
 
-## EDUCATION 🏅
+## EDUCATION 🥇
 
 - Bachelor of Science
 

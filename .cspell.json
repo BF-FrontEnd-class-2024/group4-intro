@@ -13,11 +13,11 @@
     "hyfcourse",
     "Horeca",
     "DNYANDEO",
-   " WAGHUNDE" ,
-   "Coursera",
-   "Udemy",
-   "Dnyandeo",
-   "expressjs"
+    " WAGHUNDE",
+    "Coursera",
+    "Udemy",
+    "Dnyandeo",
+    "expressjs"
   ],
   "ignorePaths": [
     "node_modules/**",
