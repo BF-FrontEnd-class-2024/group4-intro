@@ -17,10 +17,10 @@ progress.
 
 ## Contributors
 
-### [Dnyandeo](/members/daria.md)
+### [Dnyandeo](./members/dnyando.md)
 
-### [Ahmed](/members/rohma.md)
+### [Ahmed](./members/ahmadissa99.md)
 
-### [Rodicai](/members/richelle.md)
+### [Rodicai](./members/rodicai.md)
 
-### [Sowmya](/members/sri12334.md)
+### [Sowmya](/members/sowmya.md)
